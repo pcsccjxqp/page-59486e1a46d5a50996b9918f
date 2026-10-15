@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-0b26c89017.re-meditech.cn/sitemap.xml
